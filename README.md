@@ -17,7 +17,6 @@ Also made a version with a dollar sign.
 
 ### **Shiratama Keycaps**
 
-Source: https://github.com/penk/WeirdFlexButOk
 - **Author:** [@taneyats](https://twitter.com/taneyats)
 - **Source:** [Shiratama keycaps](https://taneyats.booth.pm/items/4020198)
 - **License:** [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
