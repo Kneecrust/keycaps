@@ -26,5 +26,13 @@ Used MX stems and resized it to be cherry keycap dimensions.
 
 Made a homing version as well.
 
+
+### **KLP Lame Keycaps**
+
+- **Author:** [@braindefender](https://github.com/braindefender)
+- **Source:** [KLP Lame keycaps](https://github.com/braindefender/KLP-Lame-Keycaps/blob/master/README.md)
+
+Adjusted the Choc Thumb to have a 1.5U version.
+
 ______
 All credit and appreciation for original files goes to the sources and creators listed above. 🙏
