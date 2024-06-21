@@ -14,6 +14,8 @@ Added a 1.25U version which didn't exist at the source.
 Made a homing version of every size as well.
 
 Also made a version with a dollar sign.
+
+Also included the choc variants for 1.25, 1.5, and 2u in both regular and perpendicular orientations.
 ______
 ### **Shiratama Keycaps**
 
